@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactivespark_6567.iml" filepath="$PROJECT_DIR$/.idea/modules/reactivespark_6567.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactivespark_6567-build.iml" filepath="$PROJECT_DIR$/.idea/modules/reactivespark_6567-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactiveSpark.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactiveSpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactivespark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/reactivespark-build.iml" />
     </modules>
   </component>
 </project>

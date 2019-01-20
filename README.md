@@ -9,22 +9,22 @@ Project to cover the most famous [Spark](https://spark.apache.org/) features.
 
 Here we cover with some practical examples, the most common use of the Spark Core Functional API
 
-* **Creating**
+* **Create**
 
     ![My image](src/main/resources/img/rsz_1createc.png)
     * [Creating](src/test/scala/SparkCreation.scala)
 
-* **Transforming**
+* **Transform**
 
     ![My image](src/main/resources/img/rsz_1zipo.png)
     * [Transforming](src/test/scala/SparkTransform.scala)
 
-* **Filtering**
+* **Filter**
 
     ![My image](src/main/resources/img/rsz_1filter.png)
-    * [Filterinmg](src/test/scala/SparkFilter.scala)
+    * [Filtering](src/test/scala/SparkFilter.scala)
 
-* **Compose**
+* **Combine**
 
     ![My image](src/main/resources/img/rsz_flatmap.png)
-    * [Compose](src/test/scala/SparkCompose.scala)
+    * [Combining](src/test/scala/SparkCompose.scala)
