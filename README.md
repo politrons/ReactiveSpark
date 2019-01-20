@@ -28,3 +28,5 @@ Here we cover with some practical examples, the most common use of the Spark Cor
 
     ![My image](src/main/resources/img/rsz_flatmap.png)
     * [Combining](src/test/scala/SparkCompose.scala)
+
+When you run your test, during the execution you can see the program UI here http://192.168.1.247:4040/
